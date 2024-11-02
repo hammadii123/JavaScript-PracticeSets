@@ -8,3 +8,5 @@ const randomValues = "ABCSWHDAUERM!@#$%^&^%$#32145278175asandjhrwdasuasdmumasas"
         }
         document.getElementById("passwordDisplay").value = randomPass;
     }
+
+    
