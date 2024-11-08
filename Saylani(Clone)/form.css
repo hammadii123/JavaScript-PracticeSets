@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body .left,
+.body .right {
+  gap: 30px;
+}
+.body .left p,
+.body .right p {
+  color: rgb(27, 75, 235);
+  font-weight: 400;
+}
+.body .left input,
+.body .left select,
+.body .right input,
+.body .right select {
+  width: 400px;
+  height: 60px;
+  border-radius: 5px;
+  border: 1px solid rgb(110, 182, 2);
+}
+
+.text100 select {
+  width: 50%;
+  height: 60px;
+  border-radius: 5px;
+  border: 1px solid rgb(110, 182, 2);
+  width: 825px;
+}
+
+.image input {
+  height: 40px;
+}
+
+.heading {
+  color: rgb(27, 75, 235);
+  font-weight: 400;
+}
+
+.para {
+  width: 825px;
+}
+.para button {
+  background-color: rgb(11, 55, 151) !important;
+  color: white !important;
+}
+.para button:hover {
+  background-color: rgb(7, 78, 221) !important;
+}/*# sourceMappingURL=form.css.map */

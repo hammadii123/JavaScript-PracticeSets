@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+
+
+    .left,
+    .right {
+        gap: 30px;
+
+        p {
+            color: rgb(27, 75, 235);
+            font-weight: 400;
+        }
+
+        input,
+        select {
+            width: 400px;
+            height: 60px;
+            border-radius: 5px;
+            border: 1px solid rgb(110, 182, 2);
+        }
+
+    }
+
+
+}
+
+.text100 {
+    select {
+        width: 50%;
+        height: 60px;
+        border-radius: 5px;
+        border: 1px solid rgb(110, 182, 2);
+        width: 825px;
+    }
+}
+
+.image {
+    input {
+        height: 40px;
+    }
+}
+
+.heading {
+    color: rgb(27, 75, 235);
+    font-weight: 400;
+}
+
+.para {
+    width: 825px;
+    button {
+    
+        background-color:rgb(11 55 151) !important;
+        color: white !important;
+    }
+    button:hover{
+        background-color: rgb(7, 78, 221) !important;
+    }
+
+}

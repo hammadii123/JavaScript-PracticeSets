@@ -1,0 +1,55 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  gap: 20px;
+}
+.container img {
+  width: 10vw;
+  height: 7vw;
+}
+.container .material {
+  width: 40%;
+}
+.container .material .buttons button {
+  width: 50%;
+  background-color: #f7f7f7;
+  border-style: none;
+  height: 40px;
+  border-radius: 5px;
+  color: #727272;
+  text-decoration: none;
+}
+.container .material .buttons a {
+  text-decoration: none;
+  color: inherit;
+}
+.container .material .buttons button:hover {
+  background-color: #e3ebf7;
+  color: #285192;
+}
+.container .material .button {
+  background-color: #285192;
+  color: white;
+  border-style: none;
+  height: 35px;
+  border-radius: 5px;
+}
+.container .material .button:hover {
+  background-color: #2b61b8;
+}
+.container .material .text input {
+  width: 100%;
+  border: 1px solid rgb(153, 153, 153);
+  height: 35px;
+  border-radius: 5px;
+}
+.container .material .text button {
+  background-color: #285192;
+  border-style: none;
+  height: 35px;
+}/*# sourceMappingURL=styles.css.map */
